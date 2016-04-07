@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SolsticeScotland]]></title>
         <description><![CDATA[SolsticeScotland]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/solsticescotland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 14:22:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 14:22:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/solsticescotland/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We offer the personalised approach to providing support for you business and we do it to suit how you operate.  Need ad-hoc support at an agreed hourly rate to deal with issues as they arise? That's fine, we can help you.  Need a service with a fixed monthly cost so you can manage your budget?  Good, we'll set the number of hours you need and provide proactive support.  We have over 16 years of experience supporting small businesses in the central belt of Scotland and will happily provide assistance, manage your critical data backups or offer advice on a suitable direction to take your IT infrastructure to cater for your business needs.]]></title>
+            <description><![CDATA[<article><h1>We offer the personalised approach to providing support for you business and we do it to suit how you operate.  Need ad-hoc support at an agreed hourly rate to deal with issues as they arise? That's fine, we can help you.  Need a service with a fixed monthly cost so you can manage your budget?  Good, we'll set the number of hours you need and provide proactive support.  We have over 16 years of experience supporting small businesses in the central belt of Scotland and will happily provide assistance, manage your critical data backups or offer advice on a suitable direction to take your IT infrastructure to cater for your business needs.</h1><p>Small Business IT Support and Managed Services</p></article>]]></description>
+            <link>https://thegrid.ai/solsticescotland/small-business-it-support-and-managed-services/index.html</link>
+            <guid isPermaLink="false">f4877cac-7921-4ccb-9b2b-451ed4806502</guid>
+            <pubDate>Thu, 07 Apr 2016 14:22:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Solstice (Scotland) Ltd company logo]]></title>
             <description><![CDATA[<article><h1>Solstice (Scotland) Ltd company logo</h1><p>Our logo after re-branding in 2014.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/988b6243e6c621b988579549a00391210ba9b85c.jpg"></article>]]></description>
-            <link>undefinedsolstice-scotland-ltd-company-logo/index.html</link>
+            <link>https://thegrid.ai/solsticescotland/solstice-scotland-ltd-company-logo/index.html</link>
             <guid isPermaLink="false">139452ef-abcf-4e89-926b-ecf29dd69b84</guid>
             <pubDate>Thu, 07 Apr 2016 14:22:11 GMT</pubDate>
         </item>
