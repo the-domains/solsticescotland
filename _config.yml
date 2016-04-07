@@ -1,7 +1,7 @@
 name: SolsticeScotland
 favicon: null
-layout_spectrum: 0.5207688054069877
-typography_spectrum: 0.6770975093822926
+layout_spectrum: 0.49866
+typography_spectrum: 0.75023
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.13918755762279034
+    - '#ffffff'
+    - '#0042ea'
+    - '#4979f1'
+    - '#cf83fc'
+    - '#ab29f8'
+  brandStrength: 0.25
   lightness: 0.5190155718009919
   saturation: 0.8327806140296161
   rhythmicContrast: 0.1469051220919937
